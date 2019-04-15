@@ -19,12 +19,12 @@ class Dog
   end
 
   def self.drop_table
-    sl = <<-SQL 
-      DROP TABLE dogs 
-    SQL 
+    sl = <<-SQL
+      DROP TABLE dogs
+    SQL
   end
 
-  def 
-    
+  def
+
 
 end
